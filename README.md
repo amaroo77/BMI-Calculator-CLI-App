@@ -51,7 +51,7 @@ python bmi_calculator_cli_app.py
 ```
 
 
-📷 Contoh Output
+# 📷 Contoh Output
 ```bash
 Masukkan ketinggian anda dalam unit cm: 165
 Masukkan berat anda dalam unit kg: 60
@@ -59,3 +59,11 @@ Masukkan berat anda dalam unit kg: 60
 BMI anda adalah: 22.0
 Anda mempunyai berat badan yang normal.
 ```
+
+# 👨‍💻 Dibangunkan Oleh
+Amru Sabiq
+
+[LinkedIn](https://linkedin.com/in/amru-sabiq) | [GitHub](https://github.com/amaroo77)
+
+# 📄 Lesen
+Projek ini di bawah lesen MIT. Bebas digunakan untuk pembelajaran, latihan, atau dikembangkan ke versi lebih maju.
