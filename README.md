@@ -41,27 +41,21 @@ Sebuah aplikasi mudah jenis Command Line Interface (CLI) untuk mengira Indeks Ji
 ### Langkah-langkah:
 ```bash
 # 1. Muat turun fail
-git clone https://github.com/nama-pengguna/kalkulator-bmi
+git clone https://github.com/nama-pengguna/BMI-Calculator_CLI_App
 
 # 2. Masuk ke folder
-cd kalkulator-bmi
+cd BMI-Calculator_CLI_App
 
 # 3. Jalankan program
-python kalkulator_BMI.py
+python bmi_calculator_cli_app.py
+```
+
+
 📷 Contoh Output
-bash
-Copy
-Edit
+```bash
 Masukkan ketinggian anda dalam unit cm: 165
 Masukkan berat anda dalam unit kg: 60
 
 BMI anda adalah: 22.0
 Anda mempunyai berat badan yang normal.
-📁 Struktur Projek
-bash
-Copy
-Edit
-kalkulator-bmi/
-│
-├── kalkulator_BMI.py   # Kod utama
-└── README.md           # Dokumentasi projek
+```
